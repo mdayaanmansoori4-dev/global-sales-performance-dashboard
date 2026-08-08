@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing global sales performance from FY2011–2016 across 5 countries and 3 product categories (Bikes, Accessories, Clothing).
 
-![Dashboard Preview](<img width="1088" height="807" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/585b58c7-4b90-4322-8709-9634ab835a31" />
+![Dashboard Preview](<img width="1088" height="807" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/3e4644db-7549-45eb-b01a-b709ae775940" />
 )
 
 ## What's Inside
